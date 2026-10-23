@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="title">Игра: Угадай число</string>
+    <string name="subtitle">Загадайте число и укажите диапазон для поиска</string>
+    <string name="hint_min">Минимальное число (например, 1)</string>
+    <string name="hint_max">Максимальное число (например, 100)</string>
+    <string name="start">Начать игру</string>
+    <string name="lower">Нет, моё число меньше</string>
+    <string name="higher">Нет, моё число больше</string>
+    <string name="guessed">Да, угадал!</string>
+    <string name="restart">Играть снова</string>
+    <string name="error_empty">Введите оба числа диапазона</string>
+    <string name="error_number">Введите корректные целые числа</string>
+    <string name="error_range">Минимальное число должно быть меньше максимального</string>
+    <string name="error_no_lower">Чисел меньше в диапазоне не осталось</string>
+    <string name="error_no_higher">Чисел больше в диапазоне не осталось</string>
+    <string name="win">Ура! Победа!</string>
+    <string name="question_format">Ваше число %1$d?</string>
+    <string name="found_format">Я угадал! Это число %1$d!</string>
+    <string name="was_number_format">Загаданное число было: %1$d</string>
+</resources>
